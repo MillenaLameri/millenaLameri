@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mia-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
   <img align="center" alt="Mia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="right" alt="Mia-fubata" src="https://media.tenor.com/XNoSfLlcWeYAAAAM/jump-cute.gif">
+  <img align="right" alt="Mia-fubata" src="https://64.media.tumblr.com/0fb213af6b7234ade42de492f7a316df/tumblr_o6prsfiIq31txjyfuo7_400.gifv">
 </div>
   
   ##
