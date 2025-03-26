@@ -1,9 +1,14 @@
 ## Hey there, I am Mia!
 ## About me
-With over 4 years of experience in mobile app development, I am passionate about creating intuitive, high-impact solutions with a strong focus on user experience. My expertise lies in React, with an emphasis on building interfaces that meet real user needs and deliver positive business outcomes.
+My name is Millena, I’m 27, and I have over 4 years of experience in mobile app development, I am passionate about creating intuitive, high-impact solutions with a strong focus on user experience. My expertise lies in React, with an emphasis on building interfaces that meet real user needs and deliver positive business outcomes.
+
+
  ## Key Achievements: 
 Notarial Tracking App: Developed a solution for document submission and signing, process tracking, and lawyer meeting scheduling, optimizing the user experience and process efficiency.
+
+
 Unimed Vitória Chatbot: Led the creation and continuous improvement of the chatbot, implementing key flows such as appointment scheduling for consultations and exams. This initiative significantly reduced call center volume, resulting in cost savings and an enhanced user experience.
+
 
   <div>
   <a href="https://github.com/MillenaLameri">
